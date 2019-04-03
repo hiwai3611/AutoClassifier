@@ -1,0 +1,33 @@
+AdaBoostClassifier :	 precision : 0.8736 +- 0.0481
+BaggingClassifier :	 precision : 0.8736 +- 0.0481
+BernoulliNB :	 precision : 0.8736 +- 0.0481
+CalibratedClassifierCV :	 precision : 0.8736 +- 0.0481
+DecisionTreeClassifier :	 precision : 0.8736 +- 0.0481
+ExtraTreeClassifier :	 precision : 0.8736 +- 0.0481
+ExtraTreesClassifier :	 precision : 0.8736 +- 0.0481
+GaussianNB :	 precision : 0.8736 +- 0.0481
+GaussianProcessClassifier :	 precision : 0.8736 +- 0.0481
+GradientBoostingClassifier :	 precision : 0.8736 +- 0.0481
+KNeighborsClassifier :	 precision : 0.8736 +- 0.0481
+LabelPropagation :	 precision : 0.8736 +- 0.0481
+LabelSpreading :	 precision : 0.8736 +- 0.0481
+LinearDiscriminantAnalysis :	 precision : 0.8736 +- 0.0481
+LinearSVC :	 precision : 0.8736 +- 0.0481
+LogisticRegression :	 precision : 0.8736 +- 0.0481
+LogisticRegressionCV :	 precision : 0.8736 +- 0.0481
+MLPClassifier :	 precision : 0.8736 +- 0.0481
+MultinomialNB :	 precision : 0.8736 +- 0.0481
+NearestCentroid :	 precision : 0.8736 +- 0.0481
+NuSVC :	 precision : 0.8736 +- 0.0481
+PassiveAggressiveClassifier :	 precision : 0.8736 +- 0.0481
+Perceptron :	 precision : 0.8736 +- 0.0481
+QuadraticDiscriminantAnalysis :	 precision : 0.8736 +- 0.0481
+RadiusNeighborsClassifier :	 precision : 0.8736 +- 0.0481
+RandomForestClassifier :	 precision : 0.8736 +- 0.0481
+RidgeClassifier :	 precision : 0.8736 +- 0.0481
+RidgeClassifierCV :	 precision : 0.8736 +- 0.0481
+SGDClassifier :	 precision : 0.8736 +- 0.0481
+SVC :	 precision : 0.8736 +- 0.0481
+
+multinomial Naive Bayes fails because of negative 
+Input X must be non-negative naive_bayes.py
